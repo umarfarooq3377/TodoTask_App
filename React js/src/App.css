@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: "Rubik", sans-serif;
+  line-height: 1;
+  font-weight: 400;
+  color: #555;
+}
+
+.router-link{
+  text-decoration: none;
+  color: inherit;
+}
+.css-173m23y-MuiButtonBase-root-MuiButton-root-MuiLoadingButton-root:hover{
+  background-color: #c01307 !important;
+}
+
+.css-1oqqzyl-MuiContainer-root{
+  padding: 0 !important;
+}
+
+.delete-hover:hover{
+  background-color: #c01307 !important;
+}
